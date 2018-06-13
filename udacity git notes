@@ -1,3 +1,6 @@
+this is alternate version?!
+
+
 cd ~                          # change directories to your home directory
 mkdir version-control         # make version-control directory
 cd version-control            # go to version-control directory
